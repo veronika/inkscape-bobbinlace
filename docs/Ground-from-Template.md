@@ -16,7 +16,7 @@ One extension generates **straight** patches from templates,
 another other wraps the same patterns around a **circle**.
 
 The [installation] package provides over 200 predefined patterns.
-An explanation how to define your own templates sits at the bottom of a [tesselacedotcom.wordpress.com] page.
+An explanation how to define your own templates sits at the bottom of a [tesselace.com] page.
 The [Tesselace-index] of GroundForge has many more patterns for that purpose,
 you may find even more in bobbin lace literature at large.
 You can nudge the pin positions in these patterns to meet your own taste 
